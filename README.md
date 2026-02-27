@@ -1,97 +1,68 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Sai</h1>
-<h3 align="center">Software Developer | React Native | Java | Cybersecurity & VAPT Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">React Native Developer | Java Backend | Aspiring Cybersecurity Engineer 🔐</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=React+Native+Developer;Java+%7C+SQL+%7C+Python;Building+Secure+Mobile+Apps;Learning+Cybersecurity+%26+VAPT" />
+</p>
 
 ---
 
-<table>
-<tr>
-<td width="35%" align="center">
-
-<img src="YOUR_PROFILE_IMAGE_URL" width="200" style="border-radius:50%;" alt="Sai"/>
-
-### 👨‍💻 Sai
-💼 Software Developer  
-📱 React Native Specialist  
-☕ Java Backend Developer  
-🔐 Cybersecurity & VAPT Enthusiast  
-
-<br/>
-
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-
-<br/>
-
-### 🧠 Currently Learning
-- Mobile App Security & VAPT  
-- Advanced React Native Performance  
-- Secure Backend API Design  
-
-</td>
-
-<td width="65%">
-
-## 👋 About Me
-I am a results-driven Software Developer with 1 year of experience building scalable cross-platform mobile applications across healthcare and EdTech domains. I specialize in React Native development, REST API integration, secure feature implementation, and performance optimization.  
-
-I am passionate about building secure, high-quality applications and currently transitioning into Cybersecurity and Vulnerability Assessment & Penetration Testing (VAPT).
-
----
-
-## 🚀 What I Do
-- 📱 Build scalable cross-platform mobile apps using React Native  
-- 🔗 Integrate REST APIs and backend microservices  
-- 🔐 Implement secure authentication & data protection flows  
-- ⚡ Optimize performance and user experience  
+## 🚀 About Me
+- 📱 React Native Developer with 1+ year experience building scalable mobile apps  
+- 🔐 Currently transitioning into **Cybersecurity & VAPT**
+- 🧠 Strong in REST APIs, performance optimization & secure app architecture  
+- 🌱 Learning: App Security, Network Security, Penetration Testing  
+- 💡 Passionate about building impactful & secure software solutions  
 
 ---
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,java,spring,mysql,python,redux,firebase,git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,java,python,js,ts,html,css,sql,firebase,nodejs,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📱 Projects
-### 🏥 Healthcare Appointment System
-- Admin, Doctor & Patient management modules  
-- Real-time appointment scheduling & slot management  
-- OTP authentication & role-based access control  
-- Prescription upload & digital patient ID generation  
+## 📱 Mobile App Development
+- Cross-platform apps using **React Native**
+- Secure video streaming & API integrations
+- Reusable component architecture
+- Performance optimization & debugging
 
-### 🎓 EduTech Learning Mobile App
-- Secure video streaming & encrypted media playback  
-- Mock tests, analytics dashboards & leaderboards  
-- Redux state management & Firebase integration  
+---
+
+## 🔐 Cybersecurity Journey
+- Learning VAPT & application security
+- Exploring OWASP Top 10 vulnerabilities
+- Practicing secure coding techniques
+- Interested in Mobile App Security Testing
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sksai1&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sksai1&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sksai1&theme=react-dark" />
-</p>
-
-</td>
-</tr>
-</table>
+## 🧠 Currently Learning
+- Cybersecurity & VAPT  
+- Secure Mobile Application Development  
+- Advanced React Native Performance Techniques  
 
 ---
 
-## 💡 Fun Fact
-⚡ I enjoy building secure and scalable mobile applications that solve real-world healthcare and education problems.
+## 🌐 Connect With Me
+<p>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
