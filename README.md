@@ -38,14 +38,17 @@
 - Interested in Mobile App Security Testing
 
 ---
-
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://img.shields.io/badge/Active%20Since-Feb%202025-00C2FF?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sksai1&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sksai1&theme=tokyonight" height="160"/>
 </p>
 
+---
+
+## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sksai1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sksai1&theme=react-dark" />
 </p>
 
 ---
