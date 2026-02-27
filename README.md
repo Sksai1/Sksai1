@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm sai</h1>
 <h3 align="center">React Native Developer | Java Backend | Aspiring Cybersecurity Engineer 🔐</h3>
 
 <p align="center">
@@ -56,7 +56,7 @@
 
 ## 🌐 Connect With Me
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sai-sanaboyina-858a00265/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
