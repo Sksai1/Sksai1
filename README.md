@@ -1,48 +1,51 @@
-<!-- Header -->
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Sai</h1>
 <h3 align="center">Software Developer | React Native | Java | Cybersecurity & VAPT Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=React+Native+Developer;Java+Backend+Developer;Secure+App+Builder;Aspiring+Cybersecurity+Engineer" />
-</p>
-
 ---
 
-<!-- Two Column Layout -->
 <table>
 <tr>
 <td width="35%" align="center">
 
-<img src="your-photo-url" width="180" style="border-radius:50%;" alt="profile photo"/>
+<img src="YOUR_PROFILE_IMAGE_URL" width="200" style="border-radius:50%;" alt="Sai"/>
 
-### 👨‍💻 Profile
-- 💼 Software Developer  
-- 📱 React Native Specialist  
-- ☕ Java Backend Developer  
-- 🔐 Cybersecurity & VAPT Learner  
-- 🌍 India  
-
-<br/>
-
-### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sksai1)
+### 👨‍💻 Sai
+💼 Software Developer  
+📱 React Native Specialist  
+☕ Java Backend Developer  
+🔐 Cybersecurity & VAPT Enthusiast  
 
 <br/>
 
-### 🚀 Current Focus
-- Secure Mobile App Development  
-- React Native Performance Optimization  
-- Learning Web & Mobile VAPT  
-- Building Scalable Backend APIs  
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
+<br/>
+
+### 🧠 Currently Learning
+- Mobile App Security & VAPT  
+- Advanced React Native Performance  
+- Secure Backend API Design  
 
 </td>
 
 <td width="65%">
 
-## 🚀 About Me
-Results-driven Software Developer with 1 year of experience building scalable cross-platform mobile applications across healthcare and EdTech domains. Specialized in React Native development, REST API integration, and performance optimization. Passionate about secure application development and transitioning into Cybersecurity & VAPT, with strong experience delivering end-to-end features in Agile environments.
+## 👋 About Me
+I am a results-driven Software Developer with 1 year of experience building scalable cross-platform mobile applications across healthcare and EdTech domains. I specialize in React Native development, REST API integration, secure feature implementation, and performance optimization.  
+
+I am passionate about building secure, high-quality applications and currently transitioning into Cybersecurity and Vulnerability Assessment & Penetration Testing (VAPT).
+
+---
+
+## 🚀 What I Do
+- 📱 Build scalable cross-platform mobile apps using React Native  
+- 🔗 Integrate REST APIs and backend microservices  
+- 🔐 Implement secure authentication & data protection flows  
+- ⚡ Optimize performance and user experience  
 
 ---
 
@@ -53,23 +56,21 @@ Results-driven Software Developer with 1 year of experience building scalable cr
 
 ---
 
-## 📱 Featured Projects
-
+## 📱 Projects
 ### 🏥 Healthcare Appointment System
-- Admin, Doctor & Patient modules with role-based access control  
-- Real-time appointment booking and dynamic schedule management  
-- OTP authentication and secure prescription upload  
-- Java Microservices with MySQL database
+- Admin, Doctor & Patient management modules  
+- Real-time appointment scheduling & slot management  
+- OTP authentication & role-based access control  
+- Prescription upload & digital patient ID generation  
 
-### 🎓 EduTech Mobile Learning App
-- Secure on-demand video playback with protected media delivery  
-- Mock tests, analytics dashboards, and performance insights  
-- Redux state management and REST API integration  
-- Firebase authentication and push notifications
+### 🎓 EduTech Learning Mobile App
+- Secure video streaming & encrypted media playback  
+- Mock tests, analytics dashboards & leaderboards  
+- Redux state management & Firebase integration  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sksai1&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sksai1&theme=tokyonight" height="160"/>
@@ -77,7 +78,7 @@ Results-driven Software Developer with 1 year of experience building scalable cr
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sksai1&theme=react-dark" />
 </p>
@@ -89,7 +90,7 @@ Results-driven Software Developer with 1 year of experience building scalable cr
 ---
 
 ## 💡 Fun Fact
-⚡ I enjoy building secure, scalable mobile applications that solve real-world healthcare and education problems.
+⚡ I enjoy building secure and scalable mobile applications that solve real-world healthcare and education problems.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=footer"/>
